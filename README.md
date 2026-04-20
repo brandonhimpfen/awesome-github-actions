@@ -85,6 +85,7 @@ GitHub Actions enables you to automate tasks across the software development lif
 ## Tools & Utilities
 
 - [act](https://github.com/nektos/act) – Run GitHub Actions locally for faster development and debugging.
+- [FailureMemory](https://github.com/UnguisAI/failurememory) – Fingerprint recurring GitHub Actions failures and keep a rolling history-backed recurrence brief.
 - [workflow-dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) – Manually trigger workflows via GitHub UI or API.
 - [cache](https://github.com/actions/cache) – Cache dependencies and build outputs for faster workflows.
 
