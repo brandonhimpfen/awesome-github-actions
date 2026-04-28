@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Linting & Code Quality
 
+- [ci-doctor](https://github.com/depmedicdev/ci-doctor) – CLI that audits `.github/workflows/*.yml` for 14 cost, security, and reliability smells (missing concurrency, missing timeouts, unpinned actions, stale cache keys, fail-fast matrices, etc.). Auto-fixes the safe ones with `--fix`.
 - [github/super-linter](https://github.com/github/super-linter) – All-in-one linter supporting multiple languages.
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) – Run ESLint and add comments to pull requests.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) – Automate code formatting and create pull requests with changes.
