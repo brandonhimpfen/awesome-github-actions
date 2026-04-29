@@ -96,6 +96,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) – Official GitHub Action templates for different languages and frameworks.
 - [ci-cd-github-actions-examples](https://github.com/vemel/ci-cd-github-actions-examples) – Real-world CI/CD workflow examples for common project setups.
 
+- [Free GitHub Actions Node CI Template](https://github.com/cleo-ai-ops/free-github-actions-node-ci-template) – Minimal Node.js CI workflow template with setup notes for tests, linting, build, and dependency caching.
+
 ## Related Awesome Lists
 
 - **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Continuous Integration tools and services.
