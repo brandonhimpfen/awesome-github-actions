@@ -90,6 +90,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [act](https://github.com/nektos/act) – Run GitHub Actions locally for faster development and debugging.
 - [workflow-dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) – Manually trigger workflows via GitHub UI or API.
 - [cache](https://github.com/actions/cache) – Cache dependencies and build outputs for faster workflows.
+- [staticfeed](https://github.com/jackydangelo/staticfeed) - A zero-cost RSS aggregator and generator pipeline running entirely on GitHub Actions and GitHub Pages.
 
 ## Templates & Boilerplates
 
