@@ -57,6 +57,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Security
 
+- [AI Crypto Auditor](https://github.com/AKzar1el/ai-crypto-auditor) – AI GitHub Action that audits Solidity, Rust, and Move smart contracts for security vulnerabilities using Gemini, Claude, or ChatGPT.
+
 - [GitHub Code Scanning](https://docs.github.com/en/code-security/code-scanning) – Scan your codebase for vulnerabilities.
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) – Detect file changes across branches or PRs.
 - [GitLeaks Action](https://github.com/gitleaks/gitleaks-action) – Scan repositories for secrets and keys.
@@ -74,6 +76,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [firebase/actions-hosting-deploy](https://github.com/firebase/actions-hosting-deploy) – Deploy to Firebase Hosting.
 
 ## Linting & Code Quality
+
+- [AI Pine Script Auditor](https://github.com/AKzar1el/ai-pinescript-auditor) – AI GitHub Action that audits TradingView Pine Script for repainting exploits, logic bugs, and handles automated migrations to v6.
 
 - [github/super-linter](https://github.com/github/super-linter) – All-in-one linter supporting multiple languages.
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) – Run ESLint and add comments to pull requests.
