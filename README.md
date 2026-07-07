@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Linting & Code Quality
 
+- [AI Pine Script Auditor](https://github.com/AKzar1el/ai-pinescript-auditor) – AI GitHub Action that audits TradingView Pine Script for repainting exploits, logic bugs, and handles migrations to v6.
 - [github/super-linter](https://github.com/github/super-linter) – All-in-one linter supporting multiple languages.
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) – Run ESLint and add comments to pull requests.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) – Automate code formatting and create pull requests with changes.
