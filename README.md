@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Linting & Code Quality
 
+- [iteebz/readme-review](https://github.com/iteebz/readme-review) – Score your README quality on every PR and get a report card (A–F) with no AI keys needed.
 - [github/super-linter](https://github.com/github/super-linter) – All-in-one linter supporting multiple languages.
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) – Run ESLint and add comments to pull requests.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) – Automate code formatting and create pull requests with changes.
