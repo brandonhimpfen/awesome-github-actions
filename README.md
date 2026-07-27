@@ -84,6 +84,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [stale](https://github.com/actions/stale) – Automatically mark and close stale issues and pull requests.
 - [assign-reviewers](https://github.com/hmarr/auto-assign-action) – Automatically assign reviewers to new pull requests.
 - [release-drafter](https://github.com/release-drafter/release-drafter) – Automate changelog generation and draft releases.
+- [pr-risk-labeler](https://github.com/abyworkings-coder/pr-risk-labeler) – Label pull requests by diff size and by whether they touch configurable critical paths (infra, migrations, payments), with a reviewer checklist comment.
 
 ## Tools & Utilities
 
