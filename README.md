@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Linting & Code Quality
 
+- [Brainiall Caption QA](https://github.com/fasuizu-br/brainiall-caption-qa-action) – Validate SRT and WebVTT structure locally without uploading captions.
 - [github/super-linter](https://github.com/github/super-linter) – All-in-one linter supporting multiple languages.
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) – Run ESLint and add comments to pull requests.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) – Automate code formatting and create pull requests with changes.
