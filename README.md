@@ -1,9 +1,9 @@
-# Awesome GitHub Actions [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome GitHub Actions [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
-[![DOI](https://zenodo.org/badge/1010869955.svg)](https://doi.org/10.5281/zenodo.19673356)  
-[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
-[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
+[![DOI](https://zenodo.org/badge/1010869955.svg)](https://doi.org/10.5281/zenodo.19673356) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
 [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
 
 📌 This repository is archived with Zenodo and can be cited using the DOI above.
@@ -48,7 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [actions/setup-python](https://github.com/actions/setup-python) – Setup Python with version support and caching.
 - [docker/build-push-action](https://github.com/docker/build-push-action) – Build and push Docker images with BuildKit support.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) – Deploy to GitHub Pages.
-- [game-ci/unity-builder](https://github.com/game-ci/unity-builder) – Build Unity projects for any target platform; part of the game-ci org's broader CI/CD tooling for Unity, Godot, and Unreal Engine.
+- [game-ci/unity-builder](https://github.com/game-ci/unity-builder) – Build Unity projects for multiple target platforms using GitHub Actions.
 
 ## CI/CD Workflows
 
