@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [actions/setup-python](https://github.com/actions/setup-python) – Setup Python with version support and caching.
 - [docker/build-push-action](https://github.com/docker/build-push-action) – Build and push Docker images with BuildKit support.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) – Deploy to GitHub Pages.
+- [game-ci/unity-builder](https://github.com/game-ci/unity-builder) – Build Unity projects for any target platform; part of the game-ci org's broader CI/CD tooling for Unity, Godot, and Unreal Engine.
 
 ## CI/CD Workflows
 
