@@ -85,6 +85,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [stale](https://github.com/actions/stale) – Automatically mark and close stale issues and pull requests.
 - [assign-reviewers](https://github.com/hmarr/auto-assign-action) – Automatically assign reviewers to new pull requests.
 - [release-drafter](https://github.com/release-drafter/release-drafter) – Automate changelog generation and draft releases.
+- [ai-disclosure-reminder](https://github.com/dcondrey/ai-disclosure-badges) – Comment on pull requests that lack an AI-disclosure badge or markup.
 
 ## Tools & Utilities
 
