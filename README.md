@@ -88,6 +88,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Tools & Utilities
 
+- [llms-txt-generator](https://github.com/thedarkbeet/llms-txt-generator) – Zero-dependency CLI and GitHub Action that generates `llms.txt` manifest files for websites and repos.
 - [act](https://github.com/nektos/act) – Run GitHub Actions locally for faster development and debugging.
 - [workflow-dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) – Manually trigger workflows via GitHub UI or API.
 - [cache](https://github.com/actions/cache) – Cache dependencies and build outputs for faster workflows.
