@@ -99,9 +99,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Continuous Integration tools and services.
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)** – DevOps tools, platforms, and resources.
-- **[Awesome Automation](https://github.com/awesomelistsio/awesome-automation)** – Automation tools and frameworks across use cases.
+- **[Awesome CI](https://github.com/brandonhimpfen/awesome-ci)** – Continuous Integration tools and services.
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)** – DevOps tools, platforms, and resources.
+- **[Awesome Automation](https://github.com/brandonhimpfen/awesome-automation)** – Automation tools and frameworks across use cases.
   
 ## Contribute
 
