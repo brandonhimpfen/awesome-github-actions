@@ -88,6 +88,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [stale](https://github.com/actions/stale) – Automatically mark and close stale issues and pull requests.
 - [assign-reviewers](https://github.com/hmarr/auto-assign-action) – Automatically assign reviewers to new pull requests.
 - [release-drafter](https://github.com/release-drafter/release-drafter) – Automate changelog generation and draft releases.
+- [relnote](https://github.com/loki-inu/relnote) – Offline stdlib Python CLI and Action for conventional-commit release notes (no API, no config).
 
 ## Tools & Utilities
 
