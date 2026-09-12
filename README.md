@@ -64,6 +64,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [GitHub Code Scanning](https://docs.github.com/en/code-security/code-scanning) – Scan your codebase for vulnerabilities.
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) – Detect file changes across branches or PRs.
 - [GitLeaks Action](https://github.com/gitleaks/gitleaks-action) – Scan repositories for secrets and keys.
+- [Darkmoon Autonomous Pentest](https://github.com/ASCIT31/darkmoon-scan-action) – Run an open-source AI-driven autonomous penetration test (DAST) against an authorized deployed URL and upload the findings report as a workflow artifact.
 
 ## Testing
 
