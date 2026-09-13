@@ -64,6 +64,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [GitHub Code Scanning](https://docs.github.com/en/code-security/code-scanning) – Scan your codebase for vulnerabilities.
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) – Detect file changes across branches or PRs.
 - [GitLeaks Action](https://github.com/gitleaks/gitleaks-action) – Scan repositories for secrets and keys.
+- [Presend Dependency Security Check](https://github.com/presendapp/presend-check-action) – Flag suspicious npm/PyPI maintainer changes and known vulnerabilities via a free API.
 
 ## Testing
 
