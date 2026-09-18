@@ -76,6 +76,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) – Deploy static sites to GitHub Pages.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) – SSH to remote servers and run commands.
 - [firebase/actions-hosting-deploy](https://github.com/firebase/actions-hosting-deploy) – Deploy to Firebase Hosting.
+- [ulises-jeremias/github-actions-aur-publish](https://github.com/ulises-jeremias/github-actions-aur-publish) – Publish Arch Linux packages to the AUR from a GitHub Actions workflow.
 
 ## Linting & Code Quality
 
