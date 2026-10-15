@@ -82,6 +82,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [github/super-linter](https://github.com/github/super-linter) – All-in-one linter supporting multiple languages.
 - [reviewdog/action-eslint](https://github.com/reviewdog/action-eslint) – Run ESLint and add comments to pull requests.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) – Automate code formatting and create pull requests with changes.
+- [RunnerDriftAudit](https://github.com/alapha888/runner-drift-audit) – Scan GitHub Actions workflows for floating runner labels, unpinned action refs, and tool-version drift ahead of the ubuntu-latest 24.04 to 26.04 migration.
 
 ## Automation
 
