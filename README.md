@@ -73,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Deployment
 
+- [foxscar-git-hub/deploy-drift-guard](https://github.com/foxscar-git-hub/deploy-drift-guard) – Secrets-free GitHub Action that fails CI when a live deployment's commit SHA doesn't match HEAD, catching silent deploy failures.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) – Deploy static sites to GitHub Pages.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) – SSH to remote servers and run commands.
 - [firebase/actions-hosting-deploy](https://github.com/firebase/actions-hosting-deploy) – Deploy to Firebase Hosting.
