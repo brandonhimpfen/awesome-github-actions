@@ -89,6 +89,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [assign-reviewers](https://github.com/hmarr/auto-assign-action) – Automatically assign reviewers to new pull requests.
 - [release-drafter](https://github.com/release-drafter/release-drafter) – Automate changelog generation and draft releases.
 
+- [link-check-lite](https://github.com/tidybytetools/link-check-lite) – Check a list of links in CI; fails the job when any link is broken. Also a Marketplace Action.
+
 ## Tools & Utilities
 
 - [act](https://github.com/nektos/act) – Run GitHub Actions locally for faster development and debugging.
